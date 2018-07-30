@@ -1,14 +1,14 @@
 body{
     background: #04A6EB;
     color:#FDFFFF;
-    width:200px;
+    width:500px;
     margin-right:auto;
     margin-left :auto;
     }
 
 button{
     color:#FDFFFF;
-    padding:5px 20px;
+    padding:5px 5px;
     background-color: #337AB7;
     border color:#2E6DA4;
     border-style:none;
