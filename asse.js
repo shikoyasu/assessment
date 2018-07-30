@@ -94,6 +94,7 @@ userNameInput.onkeydown = (event) => {
         '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
         '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
         '{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
+        '{userName}のいいところはカリスマ性です。あなたのカリスマや立ち振る舞いに多くの人が刺激されています。'
     ];
     function asse(userName) {
                 //全部の文字コード番号を取得してそれを足してあわせる
